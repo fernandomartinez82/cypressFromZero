@@ -1,0 +1,22 @@
+{
+  "name": "cypressfromzero",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandomartinez82/cypressFromZero.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernandomartinez82/cypressFromZero/issues"
+  },
+  "homepage": "https://github.com/fernandomartinez82/cypressFromZero#readme",
+  "devDependencies": {
+    "cypress": "^7.5.0"
+  }
+}
