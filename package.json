@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/fernandomartinez82/cypressFromZero#readme",
   "devDependencies": {
-    "cypress": "^7.5.0"
+    "cypress": "7.4.0"
   }
 }
